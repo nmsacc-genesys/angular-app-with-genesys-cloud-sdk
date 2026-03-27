@@ -203,7 +203,7 @@ Follow these instructions to include the Genesys Cloud JavaScript Platform SDK i
    * `routing`
    * `users`
 
-For more information, see [Create an OAuth client](https://help.mypurecloud.com/articles/create-an-oauth-client/ "Goes to the Create an OAuth client article") and [Authorization Code with PKCE](https://developer.genesys.cloud/api/rest/authorization/use-authorization-code "Goes to the Authorization Code with PKCE documentation").
+For more information, see [Create an OAuth client](https://help.genesys.cloud/articles/create-an-oauth-client/ "Goes to the Create an OAuth client article") and [Authorization Code with PKCE](https://developer.genesys.cloud/api/rest/authorization/use-authorization-code "Goes to the Authorization Code with PKCE documentation").
 
 ### Create or open your Angular project
 
@@ -315,6 +315,6 @@ Once the client is initialized, you can create API instances such as `UsersApi`,
 
 * [Genesys Cloud Platform SDK - JavaScript](/api/rest/client-libraries/javascript/ "Goes to the Platform API JavaScript client page")
 * [Authorization Code with PKCE](https://developer.genesys.cloud/api/rest/authorization/use-authorization-code "Goes to the Authorization Code with PKCE documentation")
-* [Create an OAuth client](https://help.mypurecloud.com/articles/create-an-oauth-client/ "Goes to the Create an OAuth client article")
+* [Create an OAuth client](https://help.genesys.cloud/articles/create-an-oauth-client/ "Goes to the Create an OAuth client article")
 * [angular-app-with-genesys-cloud-sdk repository](https://github.com/GenesysCloudBlueprints/angular-app-with-genesys-cloud-sdk "Goes to the angular-app-with-genesys-cloud-sdk repository") in GitHub
 * [Sample Angular app](https://genesyscloudblueprints.github.io/angular-app-with-genesys-cloud-sdk/ "Goes to the sample Angular app")
